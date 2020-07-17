@@ -4,4 +4,4 @@ The data we are working on consist of 6182 comments that are collected from diff
 Our goal is to use different classification methods in order to predict the best possible results for the test set.
 Some of the methods used in the code are SVM, Naive Bayes and Random Forest for the classification. We used tfidf and bag of words as the two arrays that would help with the calssification. Finally, we combined the part-of-speech method with the tfidf array and we applied the result to some of the classification methods. 
 
-The code has enough comments to help realize what is being implemented at each step.
+The code has enough comments in order to cover what is being implemented at each step.
